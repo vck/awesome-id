@@ -2,6 +2,20 @@
 ---
 kumpulan link komunitas pemrograman yang ada di Indonesia
 
+- [ASP.NET](https://github.com/vickydasta/awesome-id#aspnet)
+- [BAIK](https://github.com/vickydasta/awesome-id#baik) 
+- [C/C++/Objective-C](https://github.com/vickydasta/awesome-id#ccobjective-c)
+- [Delphi](https://github.com/vickydasta/awesome-id#delphi)
+- [Go](https://github.com/vickydasta/awesome-id#go)
+- [Java](https://github.com/vickydasta/awesome-id#java) 
+- [JavaScript](https://github.com/vickydasta/awesome-id#javascript) 
+- [NodeJS](https://github.com/vickydasta/awesome-id#nodejs) 
+- [Pascal](https://github.com/vickydasta/awesome-id#pascal) 
+- [PHP](https://github.com/vickydasta/awesome-id#php)
+- [Python](https://github.com/vickydasta/awesome-id#python) 
+- [VB.Net](https://github.com/vickydasta/awesome-id#vbnet)
+- [Visual Basic](https://github.com/vickydasta/awesome-id#visualbasic)
+
 ## ASP.NET
 
 - [Grup Facebook](https://www.facebook.com/groups/aspnet.indonesia)
