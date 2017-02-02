@@ -1,4 +1,4 @@
-# devs-id
+# Awesome Indonesia
 ---
 kumpulan link komunitas pemrograman yang ada di Indonesia
 
