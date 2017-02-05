@@ -13,8 +13,9 @@ kumpulan link komunitas pemrograman yang ada di Indonesia
 - [Pascal](#pascal) 
 - [PHP](#php)
 - [Python](#python) 
+- [Ruby](#ruby)
 - [VB.Net](#vbnet)
-- [Visual Basic](#visualbasic)
+- [Visual Basic](#visual-basic)
 
 ## ASP.NET
 
@@ -92,6 +93,13 @@ kumpulan link komunitas pemrograman yang ada di Indonesia
 ## VB.Net
 
 - [Grup Facebook](https://www.facebook.com/groups/programervbnetindonesia/)
+
+## Ruby
+
+- [Web](http://ruby.id/)
+- [Slack](http://tinyurl.com/id-ruby-slack)
+- [Meetup](https://www.meetup.com/jakartarb)
+- [GitHub](https://github.com/id-ruby/id-ruby)
 
 
 ## Visual Basic
