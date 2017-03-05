@@ -14,6 +14,7 @@ kumpulan link komunitas pemrograman yang ada di Indonesia
 - [PHP](#php)
 - [Python](#python) 
 - [Ruby](#ruby)
+- [Rust](#rust)
 - [VB.Net](#vbnet)
 - [Visual Basic](#visual-basic)
 
@@ -100,6 +101,11 @@ kumpulan link komunitas pemrograman yang ada di Indonesia
 - [Slack](http://tinyurl.com/id-ruby-slack)
 - [Meetup](https://www.meetup.com/jakartarb)
 - [GitHub](https://github.com/id-ruby/id-ruby)
+
+## Rust
+
+- [GitHub](https://github.com/rustid)
+- [Grup Facebook](https://web.facebook.com/groups/103462766847162)
 
 
 ## Visual Basic
